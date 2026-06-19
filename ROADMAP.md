@@ -47,4 +47,4 @@ This roadmap sequences discovery and delivery; it does not preselect an implemen
 
 ## Current Scope
 
-Only Phase 0 is authorized. Do not implement product components until a subsequent phase is explicitly approved.
+Phase 1 research-contract and baseline documentation is authorized. Do not implement product components until a subsequent phase is explicitly approved.

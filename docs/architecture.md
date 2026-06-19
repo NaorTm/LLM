@@ -29,4 +29,4 @@ The intended direction is ingestion to extraction to graph, with retrieval readi
 
 ## Deferred Decisions
 
-The corpus domain, document formats, extraction models, ontology representation, graph technology, retrieval strategy, persistence, APIs, and deployment model remain undecided. Resolve them through plans, evaluations, and decision records before implementation.
+The initial domain is Particle Filters and Differentiable Particle Filters. Paper-set composition, document formats, extraction models, ontology representation, graph technology, retrieval strategy, persistence, APIs, and deployment model remain undecided. Resolve them through plans, evaluations, and decision records before implementation.
